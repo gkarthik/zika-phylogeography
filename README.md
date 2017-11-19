@@ -3,6 +3,7 @@
 All sequences publicly available on GenBank. Tree generated using [BEAST v1.8.4](http://beast.community/).
 
 Rendered video for use under [CC-BY-SA-4](https://choosealicense.com/licenses/cc-by-sa-4.0/) available in [movie](movie/).
+
 Rendered video on [Youtube](https://youtu.be/VOuoaSmFztY).
 
 #### Inspired by [Phylogeography of 2014-2015 Ebola virus epidemic by Gytis Dudas](https://github.com/ebov/space-time).
@@ -15,5 +16,9 @@ Rendered video on [Youtube](https://youtu.be/VOuoaSmFztY).
 * [pandas](https://pandas.pydata.org/)
 * [numpy](http://www.numpy.org/)
 
+#### Made with [Natural Earth](http://www.naturalearthdata.com/). 
+![Natural Earth](username.github.com/repository/img/image.jpg)
+
 #### License
-All contents licensed under [CC-BY-SA-4](https://choosealicense.com/licenses/cc-by-sa-4.0/).
+All content outside of [data/](data/) is  licensed under [CC-BY-SA-4](https://choosealicense.com/licenses/cc-by-sa-4.0/).
+Natural Earth shapefiles in [data/ne_10m_admin_0_countries/](data/ne_10m_admin_0_countries/) are in public domain.
