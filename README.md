@@ -17,7 +17,7 @@ Rendered video on [Youtube](https://youtu.be/VOuoaSmFztY).
 * [numpy](http://www.numpy.org/)
 
 #### Made with [Natural Earth](http://www.naturalearthdata.com/). 
-![Natural Earth](username.github.com/repository/img/image.jpg)
+![Natural Earth](NEV-Logo-color.png)
 
 #### License
 All content outside of [data/](data/) is  licensed under [CC-BY-SA-4](https://choosealicense.com/licenses/cc-by-sa-4.0/).
